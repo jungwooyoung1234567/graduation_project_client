@@ -1,0 +1,8 @@
+# Visual Studio 관련 무시할 파일들
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+bin/
+obj/
